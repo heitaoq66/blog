@@ -3,9 +3,32 @@
   
     
     <entry>
+      <title>workplan-10.22</title>
+      <link href="/2018/10/22/workplan-10-22/"/>
+      <url>/2018/10/22/workplan-10-22/</url>
+      
+        <content type="html"><![CDATA[<h2 id="明天日计划"><a href="#明天日计划" class="headerlink" title="明天日计划"></a>明天日计划</h2><ol><li>初步想好代码完成 整个过程 ，下几天完成做准备（上午）</li><li>oss桶转换镜像搞定</li><li>完成工作分配（下午）</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> work plan </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> work plan </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>workplan-10.21</title>
-      <link href="/blog/2018/10/21/workplan-10-21/"/>
-      <url>/blog/2018/10/21/workplan-10-21/</url>
+      <link href="/2018/10/21/workplan-10-21/"/>
+      <url>/2018/10/21/workplan-10-21/</url>
       
         <content type="html"><![CDATA[<h2 id="周计划"><a href="#周计划" class="headerlink" title="周计划"></a>周计划</h2><ol><li><p>完成 阿里云到aws 的迁移流程 以及程序完成 （1-4）</p></li><li><p>测试完善程序 （5）</p></li><li>整理遇到的问题，周末更新工作总结 （6）</li></ol><h2 id="明天日计划"><a href="#明天日计划" class="headerlink" title="明天日计划"></a>明天日计划</h2><ol><li>讲解到aws云需要的流程与方案</li><li>测通整个流程 （上午）</li><li>初步想好代码完成 整个过程 ，下几天完成做准备（下午）</li><li>坚持计划总结，抽出10几分钟</li></ol>]]></content>
       
@@ -27,8 +50,8 @@
     
     <entry>
       <title>heitaoq</title>
-      <link href="/blog/2018/10/20/heitaoq/"/>
-      <url>/blog/2018/10/20/heitaoq/</url>
+      <link href="/2018/10/20/heitaoq/"/>
+      <url>/2018/10/20/heitaoq/</url>
       
         <content type="html"><![CDATA[<p>​        Welcome to my blog,</p><p>​         heitaoq ，一个博客新人， 其实也不算是新人了，曾在<a href="http://heitaoq.cnblogs.com" target="_blank" rel="noopener">cnblogs</a> 上更新了一年左右时间，最近迷上了构建自己的博客，遂发现了HEXO，轻量简洁，符合我的胃口。</p><p>​      我是一个IT从业者，主要从事云计算行业，对互联网是一种痴迷，平时喜欢做一些笔记，所以自建博客也是一个驱动，促进我成长，我会在博客中更新一些工作学习中遇到的困难及解决方案。如有同道中人欢迎一起交流进步谢谢</p><p align="right">  传说中的黑桃Q    </p>    ]]></content>
       
@@ -50,8 +73,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/blog/2018/10/20/hello-world/"/>
-      <url>/blog/2018/10/20/hello-world/</url>
+      <link href="/2018/10/20/hello-world/"/>
+      <url>/2018/10/20/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
