@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title>workplan-10.26</title>
+      <link href="/2018/10/26/workplan-10-26/"/>
+      <url>/2018/10/26/workplan-10-26/</url>
+      
+        <content type="html"><![CDATA[<h2 id="工作总结"><a href="#工作总结" class="headerlink" title="工作总结"></a>工作总结</h2><ol><li>阿里云导出镜像并迁移aws</li></ol><p>​      写代码前，还是要画图，不然是真的懵。。感觉每一个逻辑还是最好先想好</p><p>​      没有搞不定的代码，要有耐心，</p><p>​     代码的容错要提高（作为目标）</p><ol start="2"><li>测试华为云</li></ol><p>​     检查华为云几要点，此处不便赘述</p><p>​     看着几百行代码，整体是真的丑，不够优美。。</p><ol start="3"><li><p>准备aws认证考试，</p><p> 目前不需要助理级可直接考pro，嗯</p></li></ol><p>​     </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> work plan </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> work plan </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>workplan-10.25</title>
       <link href="/2018/10/25/workplan-10-25/"/>
       <url>/2018/10/25/workplan-10-25/</url>
