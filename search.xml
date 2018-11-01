@@ -3,6 +3,46 @@
   
     
     <entry>
+      <title>AWS_Certified_DevOps</title>
+      <link href="/2018/10/31/AWS-Certified-DevOps/"/>
+      <url>/2018/10/31/AWS-Certified-DevOps/</url>
+      
+        <content type="html"><![CDATA[<h2 id="整理一些aws-知识点"><a href="#整理一些aws-知识点" class="headerlink" title="整理一些aws 知识点"></a>整理一些aws 知识点</h2><h6 id="什么是AWS-Elastic-Beanstalk？"><a href="#什么是AWS-Elastic-Beanstalk？" class="headerlink" title="什么是AWS Elastic Beanstalk？"></a>什么是AWS Elastic Beanstalk？</h6><p>AWS Elastic Beanstalk使开发人员可以更轻松地在AWS Cloud中快速部署和管理应用程序。开发人员只需上传他们的应用程序，Elastic Beanstalk会自动处理容量配置，负载平衡，自动扩展和应用程序运行状况监视的部署详细信息。</p><p>那些想要在几分钟内在AWS云中部署和管理应用程序的人。您不需要云计算的经验就可以开始使用。AWS Elastic Beanstalk支持Java，.NET，PHP，Node.js，Python，Ruby，Go和Docker Web应用程序。</p><p>您可以创建使用CloudWatch警报的扩展策略，以确定Auto Scaling组*<em>何时应该扩展或扩展。每个CloudWatch警报都会监视单个指标，并在指标超出您在策略中指定的阈值时将消息发送到Auto Scaling。您可以使用警报来监控您正在使用的AWS中的服务发送到CloudWatch的任何指标，或者您可以创建和监控自己的自定义指标。</em></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> AWS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>workplan-10.28</title>
+      <link href="/2018/10/28/workplan-10-28/"/>
+      <url>/2018/10/28/workplan-10-28/</url>
+      
+        <content type="html"><![CDATA[<h2 id="工作计划"><a href="#工作计划" class="headerlink" title="工作计划"></a>工作计划</h2><ol><li>devops认证 pro</li><li>实现私有云迁移阿里云 </li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> work plan </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> work plan </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>workplan-10.26</title>
       <link href="/2018/10/26/workplan-10-26/"/>
       <url>/2018/10/26/workplan-10-26/</url>
